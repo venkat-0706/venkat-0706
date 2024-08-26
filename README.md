@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Chandu Abbireddy</h1>
 <div align="center">
-<img src="https://res.cloudinary.com/dhmixzenl/image/upload/v1724660401/httpsgithub.comvenkat-0706_1_xusqut.png" alt="chandu_buoy" width="800">
+<img src="https://res.cloudinary.com/dhmixzenl/image/upload/v1724661141/httpsgithub.comvenkat-0706_2_hbrznm.png" alt="chandu_buoy" width="800">
 </div>
 <h3 align="center">A passionate DataScience Enthutiast , India</h3>
 
