@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Predictive Models , AI Chat Bots**
 
-- 👯 I’m looking to collaborate on **Data Acquisition and Preparation**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning**
 
 - 🤝 I’m looking for help with **Nueral Networks and Machine Learning**
 
