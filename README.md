@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning**
 
-- 🤝 I’m looking for help with **Nueral Networks and Machine Learning**
+- 🤝 I’m looking for Internship opportunities in the Domain of **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkat-0706](https://github.com/venkat-0706)
 
