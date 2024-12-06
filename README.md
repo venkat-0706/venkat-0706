@@ -19,13 +19,15 @@
 
 - 🤝 I’m looking for Internship opportunities in the Domain of **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/venkat-0706](https://github.com/venkat-0706)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/venkat-0706)
 
 - 💬 Ask me about **Data science**
 
 - 📫 How to reach me **chanduabbireddy247@gmail.com**
 
 - ⚡ Fun fact **I love late-night coding sessions—they're when I come up with my best ideas!**
+
+- 🕵️ You can check my basic [profile-card](https://venkat-0706.github.io/Profile-Card/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
