@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for Internship opportunities in the Domain of **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/venkat-0706)
+- 👨‍💻 All of my projects are available at [Portfolio](https://venkat-0706.github.io/Venkat-Chandu-Portfolio-/) , [Github](https://github.com/venkat-0706)
 
 - 💬 Ask me about **Data science**
 
