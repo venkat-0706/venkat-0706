@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0ABAB5&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+Github+Profile!;I'm+Venkata+Chandu!;I+💖+learning+new+things!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+Github+Profile!;I'm+Venkata+Chandu!;I+💖+learning+new+things!" />
 </h1>
 <h3 align="center">A passionate DataScience And Machine Learning Enthusiast , India</h3>
 
