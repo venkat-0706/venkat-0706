@@ -26,7 +26,9 @@
 
 - ⚡ Fun fact **I love late-night coding sessions—they're when I come up with my best ideas!**
 
-- 🕵️ You can check my basic [profile-card](https://venkat-0706.github.io/Profile-Card/)
+- 🕵️ You can check my basic [profile-card](https://venkat-0706.github.io/Profile-Card/)<center><h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&size=28&color=FF69B4&center=false&width=600&lines=“Strive+for+progress,+not+perfection.”;“Success+is+the+sum+of+small+efforts.”" />
+</h3></center>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -69,8 +71,5 @@
           </div>
         </section>
           <header>
-<center><h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&size=28&color=FF69B4&center=false&width=600&lines=“Strive+for+progress,+not+perfection.”;“Success+is+the+sum+of+small+efforts.”" />
-</h3></center>
           
 
