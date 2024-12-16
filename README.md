@@ -80,15 +80,5 @@
   <p>🛠️ Building Projects | 🌟 Sharing Knowledge | 🌐 Exploring the Tech World</p>
 </div>
 <hr/>
- <header>
-            <h2 class="h3 article-title"  align="center"><br> Leetcode - Stats </h2>
-          </header>
-          <div class="stats-container">
-            <div class="stats-wrapper" align = "center">
-              <img class="responsive-image" src="https://leetcard.jacoblin.cool/venkat-0706?ext=contest" alt="Leetcode Stats" />
-            </div>
-          </div>
-        </section>
-          <header>
           
 
