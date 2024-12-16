@@ -51,10 +51,17 @@
 
 <h2 align="center"> Leetcode Info  👨‍💻<h2>  
 <p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528891/Top_SQL_50_jb3jnw.gif" alt="jyot" height="200" width="200" /></a>
+    <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528859/Introduction_to_Pandas_onjrsw.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528119/2023-50_sbkkbc.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733527989/2024-50_nji8ur.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733527440/2024-100-new_p2w1ej.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528337/2024-04_lf48zb.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528698/2024-05_aaqkg5.gif" alt="jyot" height="200" width="200" /></a>
+     <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528730/2024-06_tphodz.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528761/2024-07_n12ekk.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733526959/leet-200_eh04iy.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528789/2024-11_wjoojc.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
