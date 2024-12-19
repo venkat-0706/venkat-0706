@@ -30,17 +30,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&size=28&color=FF69B4&center=false&width=600&lines=“Strive+for+progress,+not+perfection.”;“Success+is+the+sum+of+small+efforts.”" />
 </h3></center>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Connect+with+me;" /></h3>
 <p align="left">
 <a href="https://dev.to/venkatachandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="venkatachandu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandu0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu0706" height="30" width="40" /></a>
-<a href="https://instagram.com/_chandu_buoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chandu_buoy" height="30" width="40" /></a>
+<a href="https://instagram.com/ch4nd00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch4n00" height="30" width="40" /></a>
+</p>
+
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Coding+Platforms;" /></h3>
+<p>
 <a href="https://www.codechef.com/users/chandu_buoy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandu_buoy_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/22p31a0557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22p31a0557" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/22p31a0557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22p31a0557" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/venkat-0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkat-0706" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@chanduabbireddy247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chanduabbireddy247" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chanduabbireddy0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chanduabbireddy0706" height="30" width="40" /></a>
