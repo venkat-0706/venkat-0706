@@ -59,15 +59,14 @@
      <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528337/2024-04_lf48zb.gif" alt="jyot" height="200" width="200" /></a>
      <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528698/2024-05_aaqkg5.gif" alt="jyot" height="200" width="200" /></a>
      <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528730/2024-06_tphodz.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528761/2024-07_n12ekk.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733526959/leet-200_eh04iy.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528789/2024-11_wjoojc.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528761/2024-07_n12ekk.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733526959/leet-200_eh04iy.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528789/2024-11_wjoojc.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/venkat-0706?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=⚡+Github+Stats+⚡;" /></h2>
 <br>
 <div align=center>
