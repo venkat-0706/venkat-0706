@@ -79,7 +79,7 @@
 
   
 
-<h2><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=💡+Scan+Here+💡;" /></h2>
+<h2><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=💡+Scan+here+💡;" /></h2>
   <p><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1736233169/chanduportfolio_1_qycg0p.png" alt="jyot" height="200" width="200" /></a></p>
 </div>
 <hr/>
