@@ -75,9 +75,12 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=venkat-0706&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=venkat-0706&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
+  
      
-<h2>💡 Connect With Me 💡</h2>
-  <p>🛠️ Building Projects | 🌟 Sharing Knowledge | 🌐 Exploring the Tech World</p>
+<h2>💡 Scan Here💡</h2>
+  <p><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1736233169/chanduportfolio_1_qycg0p.png" alt="jyot" height="200" width="200" /></a></p>
 </div>
 <hr/>
           
