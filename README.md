@@ -35,7 +35,7 @@
 <a href="https://dev.to/venkatachandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="venkatachandu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandu0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu0706" height="30" width="40" /></a>
 <a href="https://instagram.com/ch4ndU7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch4n00" height="30" width="40" /></a>
-<a href="tel:+919640186272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tel:+919640186272" height="30" width="40" /></a>
+<a href="https://wa.me/+919640186272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tel:+919640186272" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Coding+Platforms;" /></h3>
