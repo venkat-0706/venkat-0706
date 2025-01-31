@@ -68,6 +68,7 @@
   <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1733528789/2024-11_wjoojc.gif" alt="jyot" height="200" width="200" /></a>
 <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1735655323/2024-12_c2h149.gif" alt="jyot" height="200" width="200" /></a>
 <a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1737678400/365_new_mnjrg4.gif" alt="jyot" height="200" width="200" /></a>
+<a href="https://leetcode.com/venkat-0706/" target="_blank"><img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1738286140/202501_fxyvro.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
