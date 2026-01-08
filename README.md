@@ -60,16 +60,13 @@
 </p>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=⚡+Github+Stats+⚡;" /></h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkat-0706&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=venkat-0706&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=venkat-0706&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br>
+<div align=center><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
+ <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-0706&theme=react&rank_icon=github"/>
   <br/>
   <br/>
   
-
-[![Venkata Chandu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-0706&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/venkat-0706/github-readme-activity-graph)
-          
 
