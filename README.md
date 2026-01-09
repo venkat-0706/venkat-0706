@@ -61,7 +61,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=⚡+Github+Stats+⚡;" /></h2>
 <br>
 <div align=center><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
-    <img align = "center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkat-0706&count_private=true&theme=react&rank_icon=github" height="180em" />
+<img align = "center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkat-0706&count_private=true&theme=react&rank_icon=github" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
