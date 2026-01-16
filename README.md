@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+My+Github+Profile!;I'm+Venkata+Chandu!;I+💖+Problem+Solving!;lly+Seeking+for+Internship+Opportunities" />
 </h1>
