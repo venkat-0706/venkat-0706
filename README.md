@@ -28,6 +28,7 @@
 - 🖥️ [Portfolio](https://venkat-0706.github.io/Portfolio/)
 - 🐙 [GitHub](https://github.com/venkat-0706)
 - 🎥 [YouTube Channel](https://www.youtube.com/@user-em3mq3zi7s)
+- 📊 [Stats](https://gitglance.vercel.app/venkat-0706)
 
 📩 Let's Connect:
 - 📧 [Email Me](mailto:chanduabbireddy247@gmail.com)
