@@ -25,7 +25,7 @@
 - 🤝 **Collaborations** on **AI/ML/Data Science Projects**
 
 🌐 Explore My Work:
-- 🖥️ [Portfolio](https://venkat-0706.github.io/Portfolio/)
+- 🖥️ [Portfolio](https://venkat-0706.github.io/Chandu.dev/)
 - 🐙 [GitHub](https://github.com/venkat-0706)
 - 🎥 [YouTube Channel](https://www.youtube.com/@user-em3mq3zi7s)
 - 📊 [Stats](https://gitglance.vercel.app/venkat-0706)
