@@ -38,14 +38,14 @@ I am a **Full-Stack Developer** specializing in the **Python Ecosystem**. I brid
 - **Backend:** **FastAPI** for high-performance asynchronous request handling.
 - **AI Core:** Integrated a **CNN-based Error Level Analysis** model to detect pixel manipulation.
 - **Key Feature:** Implemented OAuth2 authentication and encrypted storage for sensitive user data.
-- [📂 Code](https://github.com/venkat-0706) | [📺 System Demo](https://youtube.com/@user-em3mq3zi7s)
+- [📂 Code](https://github.com/venkat-0706/Aadhaar-Fraud-Detection) 
 
 #### 📸 VisionAttend: Real-Time Attendance SaaS
 *A scalable attendance management system powered by facial recognition.*
 - **Backend:** **Django** with Django Channels for real-time WebSocket communication.
 - **Frontend:** **React** dashboard for live monitoring and automated reporting.
 - **Automation:** Integrated **Celery/Redis** for background processing of large image batches.
-- [📂 Code](https://github.com/venkat-0706)
+- [📂 Code](https://github.com/venkat-0706/AI-Attendance-System)
 
 ---
 
