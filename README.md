@@ -53,7 +53,8 @@ I am a **Full-Stack Developer** specializing in the **Python Ecosystem**. I brid
 *I am an active contributor to the Python community, focusing on backend optimization and API documentation.*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=venkat-0706&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <!-- Switched to a reliable alternative mirror for github-readme-stats -->
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venkat-0706&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-0706&theme=react&hide_border=true" />
 </p>
 
