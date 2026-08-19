@@ -26,10 +26,9 @@ I am a **Python Full-Stack Engineer** focused on designing, building, and deploy
 * 🔭 **Currently Focused On:** Scalable backend architectures, automated verification pipelines, and cloud deployments.
 
 ---
-
 ### 🛠️ Technical Ecosystem
 
-#### **Languages & Core Concepts**
+#### **Languages & Frontend**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
@@ -46,6 +45,17 @@ I am a **Python Full-Stack Engineer** focused on designing, building, and deploy
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+#### **AI, Machine Learning & Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-4169E1?style=for-the-badge&logo=google&logoColor=white" alt="Tesseract OCR"/>
+</p>
+
 #### **Databases & ORM**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -53,7 +63,7 @@ I am a **Python Full-Stack Engineer** focused on designing, building, and deploy
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-#### **Tools, AI & Infrastructure**
+#### **Tools & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -63,7 +73,32 @@ I am a **Python Full-Stack Engineer** focused on designing, building, and deploy
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
----
+#### **Core Concepts & Software Engineering**
+<p>
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=python&logoColor=white" alt="Object-Oriented Programming"/>
+  <img src="https://img.shields.io/badge/Data_Structures-46E3B7?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/CRUD_Operations-007ACC?style=for-the-badge&logo=json&logoColor=white" alt="CRUD Operations"/>
+  <img src="https://img.shields.io/badge/ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="ORM"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Authentication-FF6C37?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication"/>
+  <img src="https://img.shields.io/badge/Authorization-EA4335?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Authorization"/>
+  <img src="https://img.shields.io/badge/Session_Management-1572B6?style=for-the-badge&logo=express&logoColor=white" alt="Session Management"/>
+  <img src="https://img.shields.io/badge/Debugging-181717?style=for-the-badge&logo=sentry&logoColor=white" alt="Debugging"/>
+  <img src="https://img.shields.io/badge/Exception_Handling-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Exception Handling"/>
+  <img src="https://img.shields.io/badge/Multithreading-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="Multithreading"/>
+  <img src="https://img.shields.io/badge/Decorators_&_Generators-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Decorators and Generators"/>
+</p>
+
+#### **Database & System Design Principles**
+<p>
+  <img src="https://img.shields.io/badge/Query_Optimization-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Query Optimization"/>
+  <img src="https://img.shields.io/badge/Database_Normalization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Normalization"/>
+  <img src="https://img.shields.io/badge/Indexing_&_Views-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Indexing and Views"/>
+  <img src="https://img.shields.io/badge/CTEs_&_Window_Functions-FF6C37?style=for-the-badge&logo=databricks&logoColor=white" alt="CTEs and Window Functions"/>
+  <img src="https://img.shields.io/badge/Horizontal_Scaling-009688?style=for-the-badge&logo=nginx&logoColor=white" alt="Horizontal Scaling"/>
+  <img src="https://img.shields.io/badge/Vertical_Scaling-FF5722?style=for-the-badge&logo=serverless&logoColor=white" alt="Vertical Scaling"/>
+</p>
 
 ### 🏆 Featured Projects
 
