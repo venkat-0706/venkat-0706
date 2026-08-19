@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8D+I'm+Venkata+Chandu;Python+Full-Stack+Engineer; BBuilding+Scalable+Web+%40+AI+Systems;" alt="Typing SVG" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%90%8D+I'm+Venkata+Chandu;Python+Full-Stack+Engineer;Building+Scalable+Web+%26+AI+Systems;" alt="Typing SVG" />
+</h1>
 
   <p align="center">
     <b>Python Developer</b> &nbsp;|&nbsp; <b>Full-Stack Engineering</b> &nbsp;|&nbsp; <b>AI & Computer Vision Integration</b>
