@@ -14,16 +14,22 @@
   </p>
 </div>
 
+
 ---
 
-### ⚡ Professional Overview
+## 👨‍💻 developer_profile.py
 
-I am a **Python Full-Stack Engineer** focused on designing, building, and deploying scalable web architectures and intelligent backend systems. I bridge the gap between robust API infrastructure, optimized database models, and computer vision modules.
+```python
+class Developer:
 
-* 🏗️ **Backend Engineering:** Designing high-performance RESTful APIs with **FastAPI**, **Django**, and **Flask**.
-* 🤖 **AI & Automation:** Integrating computer vision models (**YOLOv8**, **OCR**, **OpenCV**) into production web applications.
-* 💾 **Data Modeling:** Query optimization, relational schemas, and indexing across **PostgreSQL**, **MySQL**, and **SQLite**.
-* 🔭 **Currently Focused On:** Scalable backend architectures, automated verification pipelines, and cloud deployments.
+    def __init__(self):
+        self.name = "Venkata Chandu"
+        self.role = "Software Developer"
+        self.focus = "Building scalable software"
+
+    def build(self):
+        return "Code. Build. Learn. Repeat."
+````
 
 ---
 ### 🛠️ Technical Ecosystem
